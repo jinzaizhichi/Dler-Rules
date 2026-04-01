@@ -19,15 +19,6 @@ dns:
     - 223.6.6.6
   # interface-name: WLAN
 
-# Clash for Windows
-cfw-latency-url: http://cp.cloudflare.com/generate_204
-cfw-latency-timeout: 3000
-cfw-latency-type: 1
-cfw-conn-break-strategy:
-  proxy: all
-  profile: true
-  mode: true
-
 # Stash
 url-rewrite:
     - ^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
