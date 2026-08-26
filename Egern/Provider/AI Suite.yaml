@@ -113,7 +113,7 @@ domain_suffix_set:
   - gspe1-ssl.ls.apple.com
   - smoot.apple.com
   - amp-api.apps.apple.com
-  - apps.mzstatic.com
+# - apps.mzstatic.com
   - gateway.icloud.com
   - updates.cdn-apple.com
 
